@@ -1,0 +1,73 @@
+
+.beside {
+  margin-top: 50px;
+  width: 300px;
+  height: 350px;
+  border: 3px solid black;
+  background: pink;
+  translate: 100px -75px;
+}
+
+h1 {
+  margin-left: 50px;
+  translate: 25px -50px;
+}
+
+h3 {
+  translate: 25px 0px;
+}
+
+nav {
+  margin-left: 10px;
+  margin-top: 10px;
+}
+article{
+  width: 800px;
+  height: 600px;
+  border: 3px solid black;
+  background: white;
+  translate: 550px -650px;
+}
+
+body {
+  margin-left: 37.5px;
+  background-color: lightblue;
+  font-size: 35px;
+  font-family: Papyrus, fantasy;
+  font-weight: bold;
+  overflow: hidden;
+}
+
+footer {
+  translate: 0px -675px;
+  font-size: 30px;
+}
+
+.Center {
+  text-align: center;
+  margin-top: 5px;
+  font-size: 35px;
+}
+
+.left {
+  margin-left: 25px;
+  margin-top: -50px;
+  font-size: 30px;
+}
+
+.left2 {
+  margin-left: 25px;
+  translate: -200px;
+  font-size: 30px;
+}
+
+.pic {
+  margin-left: 50px;
+  margin-right: 25px;
+  translate: 0px -25px;
+  float: left;
+}
+
+.TextNext2Pic{
+  margin-right: 25px;
+}

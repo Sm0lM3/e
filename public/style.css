@@ -1,0 +1,52 @@
+.beside {
+  margin-top: 50px;
+  width: 300px;
+  height: 350px;
+  border: 3px solid black;
+  background: pink;
+  translate: 50px -75px;
+}
+
+h1 {
+  text-align: center;
+  border: 3px solid black;
+  width: 400px;
+  background: white;
+  translate: 550px;
+}
+
+h3 {
+  translate: 25px 0px;
+}
+
+nav {
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+body {
+  margin-left: 37.5px;
+  width: 1000px;
+  font-size: 35px;
+  font-family: Papyrus, fantasy;
+  font-weight: bold;
+  background: lightblue;
+  overflow: hidden;
+
+}
+
+footer {
+  font-size: 30px;
+  translate: 0px -100px;
+}
+
+  
+div {
+    font-size: 90px;
+    height: 150px;
+    width: 350px;
+    border: 3px solid black;
+    background: yellow;
+    text-align: center;
+    translate: 575px -200px;
+}
